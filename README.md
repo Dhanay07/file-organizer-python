@@ -12,12 +12,19 @@ This project is a Python automation script that organizes files into categorized
 - os module
 - shutil module
 
-# 🔗 Step 6 — Copy Repository Link
+## Screenshots
 
-Your repo link will look like:
+### Before Code
+![Before](screenshots/before.png)
 
+### Code & Output
+![Code & output](screenshots/code_outpt.png)
 
+### After Code
+![After_Code](screenshots/after_code.png)
 
+### After Folders
+![After Folders](screenshots/after_folders.png)
 ## How to Run
 
 ```bash
