@@ -15,7 +15,7 @@ This project is a Python automation script that organizes files into categorized
 ## Screenshots
 
 ### Before Code
-![Before](screenshots/before.png)
+![Before](screenshots/before..png)
 
 ### Code & Output
 ![Code & output](screenshots/code_outpt.png)
