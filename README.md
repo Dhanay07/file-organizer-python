@@ -2,6 +2,9 @@
 
 This project is a Python automation script that organizes files into categorized folders based on file type.
 
+## Author
+- DHANAY KELKAR
+  
 ## Features
 - Automatically creates folders
 - Sorts images, documents, videos, music, and programs
