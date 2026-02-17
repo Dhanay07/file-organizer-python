@@ -12,6 +12,12 @@ This project is a Python automation script that organizes files into categorized
 - os module
 - shutil module
 
+# 🔗 Step 6 — Copy Repository Link
+
+Your repo link will look like:
+
+
+
 ## How to Run
 
 ```bash
